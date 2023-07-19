@@ -1,0 +1,6 @@
+size of float 4
+size of int 4
+size of char 1
+size of double 8
+sixe of short 2
+sixe of long 4
